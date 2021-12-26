@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TbWalllstreet
+- 👀 I’m interested in stocks and Crypto
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on bots
+- 📫 How to reach me via e-mail
